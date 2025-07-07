@@ -4,3 +4,4 @@ A ros2 wrapper for DM IMU
 
 Tips: 
 1. The setting of IMU rate has been changed in the newest firmware.
+  see here: void DmImu::set_output_1000HZ()
